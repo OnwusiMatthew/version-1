@@ -9,3 +9,10 @@ body {
     color: white;
     
 }
+
+header {
+    background-color: red;
+    color: black;
+    padding: 2rem;
+    
+}
